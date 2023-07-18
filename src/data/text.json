@@ -1,0 +1,21 @@
+{
+  "headers": [
+    "Position",
+    "Club",
+    "Team",
+    "Played",
+    "Won",
+    "Drawn",
+    "Lost",
+    "Byes",
+    "Forfeits",
+    "GF",
+    "GA",
+    "GD",
+    "Adj",
+    "Points",
+    "Average",
+    "Form",
+    "Next"
+  ]
+}
