@@ -1,0 +1,342 @@
+{
+  "data": [
+    {
+      "type": "fixtures",
+      "hash_id": "EN2ZVDgrON",
+      "attributes": {
+        "home_team_name": "Randwick City Men 01 Male",
+        "home_team_code": "RWCMEN01M",
+        "home_logo": "https://ocean.dribl.com/86ff625b0348476caf67bdb369c9eed2",
+        "away_team_name": "Dunbar Rovers Men 01 Male B",
+        "away_team_code": "DRCMEN01MB",
+        "away_club_name": "Dunbar Rovers",
+        "away_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "round_number": 15,
+        "display_round_number": "R15",
+        "event_name": "Dunbar Rovers Men 01 Male B vs Randwick City Men 01 Male",
+        "date": "2023-07-23 13:00:00",
+        "field_name": "Chifley Reserve Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "MNGvMPYj0m",
+      "attributes": {
+        "home_team_name": "Barnstoneworth Men 01 Male",
+        "home_club_exclusive_name": "Barnstoneworth",
+        "home_team_code": "BARMEN01M",
+        "home_logo": "https://ocean.dribl.com/fa651acb1b1b4024ac4cc0f8f7ca4201",
+        "away_team_name": "Dunbar Rovers Men 01 Male A",
+        "away_team_code": "DRCMEN01MA",
+        "away_club_name": "Dunbar Rovers",
+        "away_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "round_number": 15,
+        "display_round_number": "R15",
+        "event_name": "Barnstoneworth Men 01 Male vs Dunbar Rovers Men 01 Male A",
+        "date": "2023-07-23 13:00:00",
+        "field_name": "Paine Reserve Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "8dnlzre2yN",
+      "attributes": {
+        "home_team_name": "Coogee United Men 01 Male B",
+        "home_club_exclusive_name": "Coogee United",
+        "home_team_code": "CUFMEN01MB",
+        "home_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "away_team_name": "Lokomotiv Cove Men 01 Male",
+        "away_team_code": "LOKMEN01M",
+        "away_club_name": "Lokomotiv Cove",
+        "away_logo": "https://ocean.dribl.com/384750cde47545359759bdd7275d014f",
+        "round_number": 15,
+        "display_round_number": "R15",
+        "event_name": "Lokomotiv Cove Men 01 Male vs Coogee United Men 01 Male B",
+        "date": "2023-07-23 15:00:00",
+        "field_name": "Heffron Park Synthetic"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "vmZvPBebJm",
+      "attributes": {
+        "home_team_name": "Barnstoneworth Men 01 Male",
+        "home_club_exclusive_name": "Barnstoneworth",
+        "home_team_code": "BARMEN01M",
+        "home_logo": "https://ocean.dribl.com/fa651acb1b1b4024ac4cc0f8f7ca4201",
+        "away_team_name": "Coogee United Men 01 Male A",
+        "away_team_code": "CUFMEN01MA",
+        "away_club_name": "Coogee United",
+        "away_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "round_number": 20,
+        "display_round_number": "R20",
+        "event_name": "Barnstoneworth Men 01 Male vs Coogee United Men 01 Male A",
+        "date": "2023-07-25 19:15:00",
+        "field_name": "Heffron Park Field 5"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "xNxn76MG8d",
+      "attributes": {
+        "home_team_name": "Randwick City Men 01 Male",
+        "home_team_code": "RWCMEN01M",
+        "home_logo": "https://ocean.dribl.com/86ff625b0348476caf67bdb369c9eed2",
+        "away_team_name": "Coogee United Men 01 Male B",
+        "away_team_code": "CUFMEN01MB",
+        "away_club_name": "Coogee United",
+        "away_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "round_number": 20,
+        "display_round_number": "R20",
+        "event_name": "Randwick City Men 01 Male vs Coogee United Men 01 Male B",
+        "date": "2023-07-26 19:00:00",
+        "field_name": "Chifley Reserve Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "3NPobBn8km",
+      "attributes": {
+        "home_team_name": "Dunbar Rovers Men 01 Male B",
+        "home_club_exclusive_name": "Dunbar Rovers",
+        "home_team_code": "DRCMEN01MB",
+        "home_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "away_team_name": "Dunbar Rovers Men 01 Male A",
+        "away_team_code": "DRCMEN01MA",
+        "away_club_name": "Dunbar Rovers",
+        "away_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "round_number": 20,
+        "display_round_number": "R20",
+        "event_name": "Dunbar Rovers Men 01 Male B vs Dunbar Rovers Men 01 Male A",
+        "date": "2023-07-27 20:00:00",
+        "field_name": "Alexandria Park Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "nmYz3XgYYN",
+      "attributes": {
+        "home_team_name": "Coogee United Men 01 Male B",
+        "home_club_exclusive_name": "Coogee United",
+        "home_team_code": "CUFMEN01MB",
+        "home_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "away_team_name": "Barnstoneworth Men 01 Male",
+        "away_team_code": "BARMEN01M",
+        "away_club_name": "Barnstoneworth",
+        "away_logo": "https://ocean.dribl.com/fa651acb1b1b4024ac4cc0f8f7ca4201",
+        "round_number": 16,
+        "display_round_number": "R16",
+        "event_name": "Coogee United Men 01 Male B vs Barnstoneworth Men 01 Male",
+        "date": "2023-07-30 13:00:00",
+        "field_name": "Heffron Park Synthetic"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "MNGvMPYjEm",
+      "attributes": {
+        "home_team_name": "Dunbar Rovers Men 01 Male B",
+        "home_club_exclusive_name": "Dunbar Rovers",
+        "home_team_code": "DRCMEN01MB",
+        "home_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "away_team_name": "Coogee United Men 01 Male A",
+        "away_team_code": "CUFMEN01MA",
+        "away_club_name": "Coogee United",
+        "away_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "round_number": 16,
+        "display_round_number": "R16",
+        "event_name": "Dunbar Rovers Men 01 Male B vs Coogee United Men 01 Male A",
+        "date": "2023-07-30 15:00:00",
+        "field_name": "Reg Bartley Oval Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "RdkqQr67BN",
+      "attributes": {
+        "home_team_name": "Randwick City Men 01 Male",
+        "home_team_code": "RWCMEN01M",
+        "home_logo": "https://ocean.dribl.com/86ff625b0348476caf67bdb369c9eed2",
+        "away_team_name": "Lokomotiv Cove Men 01 Male",
+        "away_team_code": "LOKMEN01M",
+        "away_club_name": "Lokomotiv Cove",
+        "away_logo": "https://ocean.dribl.com/384750cde47545359759bdd7275d014f",
+        "round_number": 16,
+        "display_round_number": "R16",
+        "event_name": "Randwick City Men 01 Male vs Lokomotiv Cove Men 01 Male",
+        "date": "2023-07-30 15:00:00",
+        "field_name": "Chifley Reserve Field 2"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "lNbpgrGoEd",
+      "attributes": {
+        "home_team_name": "Lokomotiv Cove Men 01 Male",
+        "home_club_exclusive_name": "Lokomotiv Cove",
+        "home_team_code": "LOKMEN01M",
+        "home_logo": "https://ocean.dribl.com/384750cde47545359759bdd7275d014f",
+        "away_team_name": "Dunbar Rovers Men 01 Male B",
+        "away_team_code": "DRCMEN01MB",
+        "away_club_name": "Dunbar Rovers",
+        "away_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "round_number": 17,
+        "display_round_number": "R17",
+        "event_name": "Lokomotiv Cove Men 01 Male vs Dunbar Rovers Men 01 Male B",
+        "date": "2023-08-06 13:00:00",
+        "field_name": "Getiela Synthetic Sportsfield Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "am1nXGb8kN",
+      "attributes": {
+        "home_team_name": "Barnstoneworth Men 01 Male",
+        "home_club_exclusive_name": "Barnstoneworth",
+        "home_team_code": "BARMEN01M",
+        "home_logo": "https://ocean.dribl.com/fa651acb1b1b4024ac4cc0f8f7ca4201",
+        "away_team_name": "Randwick City Men 01 Male",
+        "away_team_code": "RWCMEN01M",
+        "away_club_name": "Randwick City",
+        "away_logo": "https://ocean.dribl.com/86ff625b0348476caf67bdb369c9eed2",
+        "round_number": 17,
+        "display_round_number": "R17",
+        "event_name": "Barnstoneworth Men 01 Male vs Randwick City Men 01 Male",
+        "date": "2023-08-06 13:00:00",
+        "field_name": "Paine Reserve Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "ydoOkje2Yd",
+      "attributes": {
+        "home_team_name": "Coogee United Men 01 Male A",
+        "home_club_exclusive_name": "Coogee United",
+        "home_team_code": "CUFMEN01MA",
+        "home_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "away_team_name": "Dunbar Rovers Men 01 Male A",
+        "away_team_code": "DRCMEN01MA",
+        "away_club_name": "Dunbar Rovers",
+        "away_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "round_number": 17,
+        "display_round_number": "R17",
+        "event_name": "Coogee United Men 01 Male A vs Dunbar Rovers Men 01 Male A",
+        "date": "2023-08-06 15:00:00",
+        "field_name": "Heffron Park Field 46"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "PmrBYZ86pm",
+      "attributes": {
+        "home_team_name": "Lokomotiv Cove Men 01 Male",
+        "home_club_exclusive_name": "Lokomotiv Cove",
+        "home_team_code": "LOKMEN01M",
+        "home_logo": "https://ocean.dribl.com/384750cde47545359759bdd7275d014f",
+        "away_team_name": "Coogee United Men 01 Male A",
+        "away_team_code": "CUFMEN01MA",
+        "away_club_name": "Coogee United",
+        "away_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "round_number": 18,
+        "display_round_number": "R18",
+        "event_name": "Lokomotiv Cove Men 01 Male vs Coogee United Men 01 Male A",
+        "date": "2023-08-13 13:00:00",
+        "field_name": "Getiela Synthetic Sportsfield Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "xK5xRvV8vN",
+      "attributes": {
+        "home_team_name": "Dunbar Rovers Men 01 Male A",
+        "home_club_exclusive_name": "Dunbar Rovers",
+        "home_team_code": "DRCMEN01MA",
+        "home_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "away_team_name": "Coogee United Men 01 Male B",
+        "away_team_code": "CUFMEN01MB",
+        "away_club_name": "Coogee United",
+        "away_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "round_number": 18,
+        "display_round_number": "R18",
+        "event_name": "Dunbar Rovers Men 01 Male A vs Coogee United Men 01 Male B",
+        "date": "2023-08-13 13:00:00",
+        "field_name": "Reg Bartley Oval Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "pmvQeqpn8d",
+      "attributes": {
+        "home_team_name": "Dunbar Rovers Men 01 Male B",
+        "home_club_exclusive_name": "Dunbar Rovers",
+        "home_team_code": "DRCMEN01MB",
+        "home_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "away_team_name": "Barnstoneworth Men 01 Male",
+        "away_team_code": "BARMEN01M",
+        "away_club_name": "Barnstoneworth",
+        "away_logo": "https://ocean.dribl.com/fa651acb1b1b4024ac4cc0f8f7ca4201",
+        "round_number": 18,
+        "display_round_number": "R18",
+        "event_name": "Dunbar Rovers Men 01 Male B vs Barnstoneworth Men 01 Male",
+        "date": "2023-08-13 15:00:00",
+        "field_name": "Reg Bartley Oval Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "BdDxYzRW6d",
+      "attributes": {
+        "home_team_name": "Barnstoneworth Men 01 Male",
+        "home_club_exclusive_name": "Barnstoneworth",
+        "home_team_code": "BARMEN01M",
+        "home_logo": "https://ocean.dribl.com/fa651acb1b1b4024ac4cc0f8f7ca4201",
+        "away_team_name": "Lokomotiv Cove Men 01 Male",
+        "away_team_code": "LOKMEN01M",
+        "away_club_name": "Lokomotiv Cove",
+        "away_logo": "https://ocean.dribl.com/384750cde47545359759bdd7275d014f",
+        "round_number": 19,
+        "display_round_number": "R19",
+        "event_name": "Barnstoneworth Men 01 Male vs Lokomotiv Cove Men 01 Male",
+        "date": "2023-08-20 13:00:00",
+        "field_name": "Paine Reserve Field 1"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "JmXQ6PVgnN",
+      "attributes": {
+        "home_team_name": "Coogee United Men 01 Male A",
+        "home_club_exclusive_name": "Coogee United",
+        "home_team_code": "CUFMEN01MA",
+        "home_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "away_team_name": "Coogee United Men 01 Male B",
+        "away_team_code": "CUFMEN01MB",
+        "away_club_name": "Coogee United",
+        "away_logo": "https://ocean.dribl.com/2cd6105fa2f84a7591279b5216052f31",
+        "round_number": 19,
+        "display_round_number": "R19",
+        "event_name": "Coogee United Men 01 Male A vs Coogee United Men 01 Male B",
+        "date": "2023-08-20 15:00:00",
+        "field_name": "Heffron Park Synthetic"
+      }
+    },
+    {
+      "type": "fixtures",
+      "hash_id": "pmvQA6MpLd",
+      "attributes": {
+        "home_team_name": "Randwick City Men 01 Male",
+        "home_team_code": "RWCMEN01M",
+        "home_logo": "https://ocean.dribl.com/86ff625b0348476caf67bdb369c9eed2",
+        "away_team_name": "Dunbar Rovers Men 01 Male A",
+        "away_team_code": "DRCMEN01MA",
+        "away_club_name": "Dunbar Rovers",
+        "away_logo": "https://ocean.dribl.com/d5902d521bec46a0af150de47c64111b",
+        "round_number": 19,
+        "display_round_number": "R19",
+        "event_name": "Dunbar Rovers Men 01 Male A vs Randwick City Men 01 Male",
+        "date": "2023-08-20 15:00:00",
+        "field_name": "Chifley Reserve Field 1"
+      }
+    }
+  ]
+}

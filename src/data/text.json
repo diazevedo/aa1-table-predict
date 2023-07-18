@@ -1,0 +1,38 @@
+{
+  "headers": [
+    "Club",
+    "Position",
+    "Team",
+    "Played",
+    "Won",
+    "Drawn",
+    "Lost",
+    "Byes",
+    "Forfeits",
+    "GF",
+    "GA",
+    "GD",
+    "Points",
+    "Average",
+    "Form",
+    "Next"
+  ],
+
+  "headers_mobile": [
+    "P",
+    "Club",
+    "Team",
+    "Pts",
+    "P",
+    "W",
+    "D",
+    "L",
+    "B",
+    "F",
+    "GF",
+    "GA",
+    "GD",
+
+    "Avg"
+  ]
+}
