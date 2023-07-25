@@ -22,7 +22,7 @@ const Table = ({ body }) => {
                   alt={`${team.team_name}'s logo`}
                 />
               </td>
-              <td className="">{team.team_name}</td>
+              <td className="no-className">{team.team_name}</td>
               <td>{team.points}</td>
               <td>{team.played}</td>
               <td>{team.won}</td>
