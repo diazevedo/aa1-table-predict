@@ -31,12 +31,10 @@ const ListItem = ({ game = {}, onResultSet }) => {
       <form>
         <input
           type="number"
-          // value={homeScore}
           onChange={(e) => setHomeScore(event.target.value)}
         />
         <input
           type="number"
-          // value={awayScore}
           onChange={(e) => setAwayScore(event.target.value)}
         />
       </form>

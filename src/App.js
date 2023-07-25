@@ -16,16 +16,6 @@ const gamesPerDate = gamesData.data.reduce((games, game) => {
   return games;
 }, {});
 
-// const groups = gamesData.data.groupBy((obj) => obj.attributes.date);
-// console.log({ groups });
-// agrupar por data os proximos jogos
-// fazer as fixtures assim
-// add no proprio table procurando por team_code
-// nao eh tao profundo que tenho que passar os dados entao ta ook
-
-// vou ter que ter um component list
-// Ele pega a primeira data do primeiro jogo e coloca como title
-
 export default function App() {
   const [table, setTable] = useState(ladder);
   const [fixtures, setFixtures] = useState(gamesPerDate);
